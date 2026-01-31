@@ -1,5 +1,6 @@
 # Medical-Diagnosis-App
 
+This project demonstrates a scalable, modular system designed for real-world use. The banner represents the overall vision, while the architecture highlights a clean separation of concerns across input, processing, services, storage, and output layers. The design prioritizes maintainability, extensibility, and production readiness over quick hacks.
 
 <!-- Banner -->
 <p align="center">
